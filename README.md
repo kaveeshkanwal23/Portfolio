@@ -2,7 +2,24 @@
 
 Contains few examples and samples of my work.
 
-I was a software engineer who turned into a product manager. I have 8+ years of experience building products in various domains. My skills, strengths and accomplishments are as follows:
+I was a software engineer who turned into a product manager. I have 8+ years of experience building products in various domains. My accomplishments, skills & strengths are as follows:
+
+Projects & Accomplishments:
+
+1. While working as a senior product manager with Ola Cabs in Bangalore, India, I was able to save USD ~1 million in annual routing APIs cost by migrating from Google maps to our in-house Ola maps.
+
+2. While working as product manager with Morningstar Inc in Gurgaon, India, I was able to :
+- Reduce the customer on-boarding time by more than 50% by building a self-serve B2B app.
+- Increase the total annual recurring revenue by ~12% from Australia and New Zealand markets.
+
+3. While working as product owner with MapmyIndia in Delhi, India, I was able to:
+- Increase the annual sales of IoT devices by about 20% by building a IoT/telematics powered shipment & warehouse management system from scratch.
+- Reduced the # of steps required to create shipment trips/routs by about 40%.
+
+4. While working as Sr PM for Payoneer, I was able to: 
+- Aggregated payment service providers(wise, binance etc) to carry out payments in Latin America.
+- Integrated multi currency wallets for users to view & withdraw money into their local banks. 
+- Reduced payment duration time from 3-5 days to real time wallet transfer.
 
 Skills:
 
@@ -44,17 +61,5 @@ Mentored & managed a team of 1 business analyst and 2 product managers while I w
 
 6. Domain Knowledge: 
 Good knowledge of domains such as IoT, logistics & supply chain, telematics, maps routing, fleet & shipment management systems, CRMs, integration with 3rd party APIs, ERP and warehouse management systems, B2B SaaS, B2C, workforce management systems & international payments.
-
-Projects & Accomplishments:
-
-1. While working as a senior product manager with Ola Cabs in Bangalore, India, I was able to save USD ~1 million in annual routing APIs cost by migrating from Google maps to our in-house Ola maps.
-
-2. While working as product manager with Morningstar Inc in Gurgaon, India, I was able to :
-- Reduce the customer on-boarding time by more than 50% by building a self-serve B2B app.
-- Increase the total annual recurring revenue by ~12% from Australia and New Zealand markets.
-
-3. While working as product owner with MapmyIndia in Delhi, India, I was able to:
-- Increase the annual sales of IoT devices by about 20% by building a shipment & warehouse management system from scratch.
-- Reduced the # of steps required to create trips by about 40%.
 
 
